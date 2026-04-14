@@ -22,6 +22,14 @@ This presentation covers a lot of ground. To help you realize the performance an
 
 -   tbd
 
+![sasicon](/img/sas-favicon-16.png) **SAS Education** (<https://learn.sas.com>)
+
+-   [SAS Architecture and Security Learning Subscription](https://learn.sas.com/totara/program/view.php?id=104) <br />This collection of architecture and security courses are designed for technical architects, administrators, and systems engineers responsible for designing and implementing SAS environments that are secure and fit for purpose.
+
+-   [SAS Deployment Learning Subscription](https://learn.sas.com/totara/program/view.php?id=111) <br />This collection of deployment courses are designed for technical architects, administrators, and systems engineers responsible for designing and deploying SAS technology across supported platforms.
+
+-   [SAS Administration Learning Subscription](https://learn.sas.com/totara/program/view.php?id=73) <br />For SAS administrators responsible for installing and configuring SAS software at their company site, monitoring performance, managing employee access, and troubleshooting issues.
+
 ![sasicon](/img/sas-favicon-16.png) **SAS Documentation** (<https://documentation.sas.com>)
 
 -   *SAS&reg; Viya&reg; Platform Administration* > Servers and Services > Programming Run-Time Servers > SAS Compute: Server, Service, and Contexts > [Reusable Compute Server](https://documentation.sas.com/?cdcId=sasadmincdc&cdcVersion=default&docsetId=calsrvpgm&docsetTarget=p137sodav4z72nn1scp9ccanzpf7.htm#p0erdqd5407a8cn14tt7o84h2g7e) <br />The SAS Compute Server enables clients to submit SAS programs and stored procedures in the form of jobs for processing using the SAS language. Instead of terminating the compute server after the session using it ends, we can enable reusable compute servers that can handle subsequent sessions.

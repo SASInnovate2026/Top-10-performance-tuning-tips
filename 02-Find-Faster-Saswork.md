@@ -30,6 +30,8 @@ This presentation covers a lot of ground. To help you realize the performance an
 
 -   [SAS Deployment Learning Subscription](https://learn.sas.com/totara/program/view.php?id=111) <br />This collection of deployment courses are designed for technical architects, administrators, and systems engineers responsible for designing and deploying SAS technology across supported platforms.
 
+-   [SAS Administration Learning Subscription](https://learn.sas.com/totara/program/view.php?id=73) <br />For SAS administrators responsible for installing and configuring SAS software at their company site, monitoring performance, managing employee access, and troubleshooting issues.
+
 ![sasicon](/img/sas-favicon-16.png) **SAS Documentation** (<https://documentation.sas.com>)
 
 -   *SAS&reg; Viya&reg; Platform Operations* > Deployment > Optional Customizations > [Mount Ephemeral Storage for the SAS Programming Run-Time Environment](https://documentation.sas.com/?cdcId=itopscdc&cdcVersion=default&docsetId=dplyml0phy0dkr&docsetTarget=n08u2yg8tdkb4jn18u8zsi6yfv3d.htm#n1rvp1gzc1fqjin12prebnpv2hih) <br />By default the SPRE servers rely on an emptyDir volume for scratch space. However, using the default emptyDir volume is not recommended because SAS programming components can consume large amounts of storage quickly which might inadvertently cause nodes to shut down.

@@ -24,6 +24,8 @@ This presentation covers a lot of ground. To help you realize the performance an
 
 -   [SAS Deployment Learning Subscription](https://learn.sas.com/totara/program/view.php?id=111) <br />This collection of deployment courses are designed for technical architects, administrators, and systems engineers responsible for designing and deploying SAS technology across supported platforms.
 
+-   [SAS Administration Learning Subscription](https://learn.sas.com/totara/program/view.php?id=73) <br />For SAS administrators responsible for installing and configuring SAS software at their company site, monitoring performance, managing employee access, and troubleshooting issues.
+
 ![sasicon](/img/sas-favicon-16.png) **SAS Documentation** (<https://documentation.sas.com>)
 
 -   *SAS&reg; Viya&reg; Platform Operations* > System Requirements > Hardware and Resource Requirements > [Persistent Storage Volumes, PersistentVolumeClaims, and Storage Classes](https://documentation.sas.com/?cdcId=itopscdc&cdcVersion=default&docsetId=itopssr&docsetTarget=n0ampbltwqgkjkn1j3qogztsbbu0.htm#n1egh9hqndi6lin13w58nozc7vco) <br />Persistent storage volumes with different attributes are required by various SAS Viya platform components.
