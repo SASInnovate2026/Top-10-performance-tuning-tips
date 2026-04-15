@@ -24,6 +24,10 @@ This presentation covers a lot of ground. To help you realize the performance an
 
 -   PMP > [Multiple SASWORK Providers](https://github.com/sassoftware/project-mountpoint/tree/main/4-Multiple-SASWORK-Providers) <br />SASWORK is a critical I/O resource to configure properly. For side-by-side testing of different storage technologies to determine the best fit, we can configure the SAS Viya platform to utilize multiple storage providers for SASWORK.
 
+![sasicon](/img/sas-favicon-16.png) **SAS Documentation** (<https://documentation.sas.com>)
+
+-   *SAS&reg; Viya&reg; Platform Operations* > Deployment > Optional Customizations > [Mount Ephemeral Storage for the SAS Programming Run-Time Environment](https://documentation.sas.com/?cdcId=itopscdc&cdcVersion=default&docsetId=dplyml0phy0dkr&docsetTarget=n08u2yg8tdkb4jn18u8zsi6yfv3d.htm#n1rvp1gzc1fqjin12prebnpv2hih) <br />By default the SPRE servers rely on an emptyDir volume for scratch space. However, using the default emptyDir volume is not recommended because SAS programming components can consume large amounts of storage quickly which might inadvertently cause nodes to shut down.
+
 ![sasicon](/img/sas-favicon-16.png) **SAS Education** (<https://learn.sas.com>)
 
 -   [SAS Architecture and Security Learning Subscription](https://learn.sas.com/totara/program/view.php?id=104) <br />This collection of architecture and security courses are designed for technical architects, administrators, and systems engineers responsible for designing and implementing SAS environments that are secure and fit for purpose.
@@ -31,10 +35,6 @@ This presentation covers a lot of ground. To help you realize the performance an
 -   [SAS Deployment Learning Subscription](https://learn.sas.com/totara/program/view.php?id=111) <br />This collection of deployment courses are designed for technical architects, administrators, and systems engineers responsible for designing and deploying SAS technology across supported platforms.
 
 -   [SAS Administration Learning Subscription](https://learn.sas.com/totara/program/view.php?id=73) <br />For SAS administrators responsible for installing and configuring SAS software at their company site, monitoring performance, managing employee access, and troubleshooting issues.
-
-![sasicon](/img/sas-favicon-16.png) **SAS Documentation** (<https://documentation.sas.com>)
-
--   *SAS&reg; Viya&reg; Platform Operations* > Deployment > Optional Customizations > [Mount Ephemeral Storage for the SAS Programming Run-Time Environment](https://documentation.sas.com/?cdcId=itopscdc&cdcVersion=default&docsetId=dplyml0phy0dkr&docsetTarget=n08u2yg8tdkb4jn18u8zsi6yfv3d.htm#n1rvp1gzc1fqjin12prebnpv2hih) <br />By default the SPRE servers rely on an emptyDir volume for scratch space. However, using the default emptyDir volume is not recommended because SAS programming components can consume large amounts of storage quickly which might inadvertently cause nodes to shut down.
 
 ![k8sicon](/img/k8s-favicon-16.png) **Kubernetes Documentation** (<https://kubernetes.io/docs>)
 

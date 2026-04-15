@@ -18,6 +18,10 @@ This presentation covers a lot of ground. To help you realize the performance an
 
 -   PMP > [3 Starter Storage Classes](https://github.com/sassoftware/project-mountpoint/tree/main/3SSC-Three-Starter-Storage-Classes) (3SSC) <br />Provides a straightforward, drop-in, no-edit configuration that enables SAS Viya platform operations with three starter storage classes for dynamically-provisioned volumes.
 
+![sasicon](/img/sas-favicon-16.png) **SAS Documentation** (<https://documentation.sas.com>)
+
+-   *SAS&reg; Viya&reg; Platform Operations* > System Requirements > Hardware and Resource Requirements > [Persistent Storage Volumes, PersistentVolumeClaims, and Storage Classes](https://documentation.sas.com/?cdcId=itopscdc&cdcVersion=default&docsetId=itopssr&docsetTarget=n0ampbltwqgkjkn1j3qogztsbbu0.htm#n1egh9hqndi6lin13w58nozc7vco) <br />Persistent storage volumes with different attributes are required by various SAS Viya platform components.
+
 ![sasicon](/img/sas-favicon-16.png) **SAS Education** (<https://learn.sas.com>)
 
 -   [SAS Architecture and Security Learning Subscription](https://learn.sas.com/totara/program/view.php?id=104) <br />This collection of architecture and security courses are designed for technical architects, administrators, and systems engineers responsible for designing and implementing SAS environments that are secure and fit for purpose.
@@ -25,10 +29,6 @@ This presentation covers a lot of ground. To help you realize the performance an
 -   [SAS Deployment Learning Subscription](https://learn.sas.com/totara/program/view.php?id=111) <br />This collection of deployment courses are designed for technical architects, administrators, and systems engineers responsible for designing and deploying SAS technology across supported platforms.
 
 -   [SAS Administration Learning Subscription](https://learn.sas.com/totara/program/view.php?id=73) <br />For SAS administrators responsible for installing and configuring SAS software at their company site, monitoring performance, managing employee access, and troubleshooting issues.
-
-![sasicon](/img/sas-favicon-16.png) **SAS Documentation** (<https://documentation.sas.com>)
-
--   *SAS&reg; Viya&reg; Platform Operations* > System Requirements > Hardware and Resource Requirements > [Persistent Storage Volumes, PersistentVolumeClaims, and Storage Classes](https://documentation.sas.com/?cdcId=itopscdc&cdcVersion=default&docsetId=itopssr&docsetTarget=n0ampbltwqgkjkn1j3qogztsbbu0.htm#n1egh9hqndi6lin13w58nozc7vco) <br />Persistent storage volumes with different attributes are required by various SAS Viya platform components.
 
 ![k8sicon](/img/k8s-favicon-16.png) **Kubernetes Documentation** (<https://kubernetes.io/docs>)
 
