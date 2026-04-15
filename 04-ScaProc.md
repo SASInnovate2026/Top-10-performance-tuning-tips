@@ -1,6 +1,6 @@
 # Tip № 4 SAS Code Analyzer (SCAPROC)
 
-Use the SCAPROC procedure to scan your existing monolithic SAS program code to identify how it can be parallelized into smaller jobs that run concurrently in less time, better utilizing your compute resources, and returning results faster.
+Use the SCAPROC procedure to scan your existing monolithic SAS program code to identify how it can be refactored to submit smaller jobs that run concurrently in less time, better utilizing your compute resources, and returning results faster.
 
 ![slide](/img/04.png)
 
@@ -10,9 +10,7 @@ This presentation covers a lot of ground. To help you realize the performance an
 
 ![sasicon](/img/sas-favicon-16.png) **SAS Communities** (<https://communities.sas.com>)
 
-- *[SCAPROC: generating parallel code for SAS Viya]()* <br />The SAS Code Analyzer examines your SAS program code, idenitifies the dependencies, and outputs an updated program that will automatically spawn parallel jobs that run concurrently to reduce your overall execution time.
-
-# &star; needs url ☝️
+- *[SCAPROC: generating parallel code for SAS Viya](https://communities.sas.com/t5/SAS-Communities-Library/SCAPROC-Generating-Parallel-Code-for-SAS-Viya/ta-p/986310)* <br />The SAS Code Analyzer procedure examines your SAS program code, idenitifies the dependencies, and outputs an updated program that will automatically spawn parallel jobs that run concurrently to reduce your overall execution time.
 
 ![sasicon](/img/sas-favicon-16.png) **Open source software from SAS Institute Inc.** (<https://github.com/sassoftware>)
 
@@ -33,6 +31,8 @@ This presentation covers a lot of ground. To help you realize the performance an
 -   [SAS Deployment Learning Subscription](https://learn.sas.com/totara/program/view.php?id=111) <br />This collection of deployment courses are designed for technical architects, administrators, and systems engineers responsible for designing and deploying SAS technology across supported platforms.
 
 -   [SAS Administration Learning Subscription](https://learn.sas.com/totara/program/view.php?id=73) <br />For SAS administrators responsible for installing and configuring SAS software at their company site, monitoring performance, managing employee access, and troubleshooting issues.
+
+-   [Architecture and Administration for SAS&reg; Workload Management on SAS&reg; Viya&reg;](https://learn.sas.com/course/view.php?id=6485) <br />The course examines SAS Workload Orchestrator software and outlines general concepts and usage scenarios, architecture and deployment considerations, and administration and monitoring functions.
 
 ![k8sicon](/img/k8s-favicon-16.png) **Kubernetes Documentation** (<https://kubernetes.io/docs>)
 
