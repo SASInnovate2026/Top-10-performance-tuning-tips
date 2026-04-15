@@ -16,6 +16,8 @@ This presentation covers a lot of ground. To help you realize the performance an
 
     > *&#8710; Note this is an older post - most of the content is valid, but improvements to operations since publishing have occurred.*
 
+-   *[Using Grafana dashboards for monitoring SAS SpeedyStore](https://communities.sas.com/t5/SAS-Communities-Library/Using-Grafana-dashboards-for-monitoring-SAS-SpeedyStore/ta-p/973178)* <br />SingleStore have announced that they are depreciating SingleStore DB Studio as their monitoring solution and are moving to using Grafana dashboards. Let's look at implementing the Grafana dashboards for a SAS Viya platform deployment with the SAS SpeedyStore offering, using the SAS Viya Monitoring for Kubernetes project to get started.
+
 ![sasicon](/img/sas-favicon-16.png) **Open source software from SAS Institute Inc.** (<https://github.com/sassoftware>)
 
 -   SAS Viya 4 Deployment-as-Code project (DAC) > [SAS Viya Support for SingleStore](https://github.com/sassoftware/viya4-deployment/blob/5078ac75956bcd629fd76cd131ba806e21b7a8bc/docs/user/SingleStore.md) <br />The DAC provides a streamlined approach as an example reference to help with initial deployment of the SAS Viya platform. It includes guidance and examples that include the configurations necessary for SAS SpeedyStore.
