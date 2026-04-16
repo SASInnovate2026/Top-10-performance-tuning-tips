@@ -28,6 +28,10 @@ Innovation Hub Theater 4 / Longhorn CD
     ![face](/img/eswar-boyapati-75.png) <br />
     Principal Infrastructure Engineer, Liberty Mutual
 
+![sasicon](/img/sas-favicon-16.png) **Open source software from SAS Institute Inc.** (<https://github.com/sassoftware>)
+
+-   *[sas-viya-tuning](https://github.com/sassoftware/sas-viya-tuning)* <br />The sas-viya-tuning project contains a set of tuning parameters designed to improve overall performance for large scale Viya deployments. It is broken down into a set of configuration "tunables" for various scenarios that users may perform while interacting with SAS Viya web applications, command-line interfaces, scheduled batch jobs, mobile applications, etc.
+
 ![sasicon](/img/sas-favicon-16.png) **SAS Documentation** (<https://documentation.sas.com>)
 
 -   *SAS&reg; Viya&reg; Platform Operations* > [System Requirements for the SAS&reg; Viya&reg; Platform](https://go.documentation.sas.com/doc/en/itopscdc/v_074/itopssr/titlepage.htm)
