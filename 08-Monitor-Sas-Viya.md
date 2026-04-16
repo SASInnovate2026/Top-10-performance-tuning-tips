@@ -10,9 +10,11 @@ This presentation covers a lot of ground. To help you realize the performance an
 
 ![sasicon](/img/sas-favicon-16.png) **SAS Communities** (<https://communities.sas.com>)
 
+-   *[Announcing Release v1.2.0 of the SAS Viya Administration Checklist](https://communities.sas.com/t5/SAS-Communities-Library/Announcing-Release-v1-2-0-of-the-SAS-Viya-Administration/ta-p/983250)* <br />This checklist project provides guidance and examples to setup and manage critical aspects of the SAS Viya platform - including monitoring and observability tasks.
+
 -   *[Observability Solutions for the SAS Viya Platform](https://communities.sas.com/t5/SAS-Communities-Library/Observability-Solutions-for-the-SAS-Viya-Platform/ta-p/900025)* <br />SAS provides administrators with two different observability solutions: SAS Enterprise Session Monitor and SAS Viya Monitoring for Kubernetes. This post explains how they compare and complement each other.
 
--   *[Comparing Alerting Capabilities of Alertmanager with Grafana](https://communities.sas.com/t5/SAS-Communities-Library/Comparing-Alerting-Capabilities-of-Alertmanager-with-Grafana/ta-p/925286)* <br />Alertmanager and Grafana, both deployed with SAS Viya Monitoring for Kubernetes, possess alerting capabilities. While both serve the purpose of alerting, they have distinct features and approaches that cater to different needs..
+-   *[Comparing Alerting Capabilities of Alertmanager with Grafana](https://communities.sas.com/t5/SAS-Communities-Library/Comparing-Alerting-Capabilities-of-Alertmanager-with-Grafana/ta-p/925286)* <br />Alertmanager and Grafana, both deployed with SAS Viya Monitoring for Kubernetes, possess alerting capabilities. While both serve the purpose of alerting, they have distinct features and approaches that cater to different needs.
 
 -   *[Why you need a log and metric monitoring solution for the SAS Viya platform](https://communities.sas.com/t5/SAS-Communities-Library/Why-you-need-a-log-and-metric-monitoring-solution-for-the-SAS/ta-p/861725)* <br />Troubleshooting problems experienced by SAS Viya in your Kubernetes environment can be challenging if you don't have the necessary metrics and log monitoring in place.
 
@@ -23,6 +25,8 @@ This presentation covers a lot of ground. To help you realize the performance an
 ![sasicon](/img/sas-favicon-16.png) **Open source software from SAS Institute Inc.** (<https://github.com/sassoftware>)
 
 -   *[SAS&reg; Viya&reg; Monitoring for Kubernetes](https://github.com/sassoftware/viya4-monitoring-kubernetes)* (V4M) <br />The SAS Viya Monitoring for Kubernetes project provides scripts and customization options to deploy dashboards for metric monitoring, alerts, and log-message aggregation that target key aspects of the SAS Viya platform.
+
+-   *[SAS Viya Administration Checklist](https://github.com/sassoftware/viya4-admin-checklist)* <br />This project provides guidance and examples to perform a variety of administrative tasks to setup and maintain the SAS Viya platform in Kubernetes.
 
 ![sasicon](/img/sas-favicon-16.png) **SAS Documentation** (<https://documentation.sas.com>)
 
@@ -40,7 +44,7 @@ This presentation covers a lot of ground. To help you realize the performance an
 
 -   [SAS&reg; Viya&reg;: Observability](https://learn.sas.com/totara/program/view.php?id=7784) <br />This workshop provides experience with SAS Viya Monitoring for Kubernetes, SAS Enterprise Session Monitor, and the observability framework supported by SAS for use with Viya on Kubernetes.
 
-&#9463; **Third-party links**
+&#9463; **Third-party tools**
 
 -   Kubernetes Documentation > Reference > [Command line tool (kubectl)](https://kubernetes.io/docs/reference/kubectl/) <br />Kubernetes provides a command line tool for communicating with a Kubernetes cluster's control plane, using the Kubernetes API.
 
