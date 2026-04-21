@@ -22,6 +22,8 @@ This presentation covers a lot of ground. To help you realize the performance an
 
 -   *[Enhancing Observability: Deploying Pre-Configured Grafana Alerts For Your SAS Viya Platform](https://communities.sas.com/t5/SAS-Communities-Library/Enhancing-Observability-Deploying-Pre-Configured-Grafana-Alerts/ta-p/979484)* <br />SAS Viya Monitoring for Kubernetes offers a set of pre-configured Grafana alerts that can be deployed to enhance monitoring of your SAS Viya platform. These alerts streamline configuration by providing administrators with the option to include SAS Viya-specific alerts right from the moment of deployment. This nicely complements the existing Kubernetes cluster-level alerts deployed with Prometheus to enhance observability and operational readiness.
 
+-   *[Compare performance of a SAS program between small, medium and large compute contexts](https://gel-innovate.gelenable.sas.com/FANS/main/Session3/05_Bonus.html#19-compare-performance-of-a-sas-program-between-small-medium-and-large-compute-contexts)* <br />After setting up the SPRE with additional resources, it's a good idea to compare performance. This exercise provides a simple methodology to run a test program and evaluate the improvements to execution efficiency.
+
 ![sasicon](/img/sas-favicon-16.png) **Open source software from SAS Institute Inc.** (<https://github.com/sassoftware>)
 
 -   *[SAS&reg; Viya&reg; Monitoring for Kubernetes](https://github.com/sassoftware/viya4-monitoring-kubernetes)* (V4M) <br />The SAS Viya Monitoring for Kubernetes project provides scripts and customization options to deploy dashboards for metric monitoring, alerts, and log-message aggregation that target key aspects of the SAS Viya platform.

@@ -26,6 +26,8 @@ This presentation covers a lot of ground. To help you realize the performance an
 
 -   [SAS Viya Forge](https://viyaforge.sas.com/) <br />SAS Viya Forge is a community-driven repository for documents and tools that help architect, implement and operate your Viya environments. Each piece of content is aimed at ensuring your Viya environment delivers maximum value in the shortest possible time.
 
+-   *[Compare performance of a SAS program between small, medium and large compute contexts](https://gel-innovate.gelenable.sas.com/FANS/main/Session3/05_Bonus.html#19-compare-performance-of-a-sas-program-between-small-medium-and-large-compute-contexts)* <br />After setting up the SPRE with additional resources, it's a good idea to compare performance. This exercise provides a simple methodology to run a test program and evaluate the improvements to execution efficiency.
+
 ![sasicon](/img/sas-favicon-16.png) **SAS Documentation** (<https://documentation.sas.com>)
 
 -   *SAS&reg; Viya&reg; Platform Operations* > [System Requirements for the SAS&reg; Viya&reg; Platform](https://go.documentation.sas.com/doc/en/itopscdc/v_074/itopssr/titlepage.htm)
