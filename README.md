@@ -8,7 +8,7 @@ The Top 10 tips:
 1.  [Find faster SASWORK](/02-Find-Faster-Saswork.md)
 1.  [SPRE Reusable Compute](/03-Spre-Reusable-Compute.md)
 1.  [SAS Code Analyzer (SCAPROC)](/04-ScaProc.md)
-1.  [WLM Elastic Autoscaling](/05-Wlm-Elastic-Autoscaling.md)
+1.  [WLM Elastic Autoscaling](/05-Wlm-Elastic-AutoScaling.md)
 1.  [WLM Can Match Jobs to Hardware](/06-Wlm-Match-Jobs.md)
 1.  [SAS Data Velocity](/07-Sas-Data-Velocity.md)
 1.  [Monitor SAS Viya in Kubernetes](/08-Monitor-Sas-Viya.md)
